@@ -26,4 +26,3 @@ O projeto foi desenvolvido utilizando **HTML e JavaScript**, com aplicação do 
 ### 👩‍💻 Desenvolvido por
 <a href="https://github.com/linsjulia/" style="color: red;">Julia Lins</a> e <a href="https://github.com/gabymonteiiro/">Gabriely Monteiro</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linsjulia/)
