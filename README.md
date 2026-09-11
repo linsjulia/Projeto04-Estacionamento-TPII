@@ -1,4 +1,4 @@
-<h1 style="color: red;">Sistema de Gerenciamento de Estacionamento</h1>
+![Sistema de Gerenciamento de Estacionamento](https://capsule-render.vercel.app/api?type=waving&color=5DBA9B&height=200&section=header&text=Sistema%20de%20Gerenciamento%20de%20Estacionamento&fontColor=ffffff&fontSize=25)
 
 Sistema desenvolvido para realizar o gerenciamento de veículos em um estacionamento, permitindo controlar a entrada e saída de carros, verificar a quantidade de vagas disponíveis e visualizar os veículos atualmente estacionados.
 
